@@ -90,7 +90,7 @@ The proposed LDV 2.0 in NTIRE 2022 contains 330 videos with diverse categories o
 [[Compressed (Fixed QP)]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/test/test_track1.zip)
 [[Info]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/test/data_test_1.xlsx)
 
-- **Track 2** (The size of raw videos are cropped to the multiples of 16)
+- **Track 2** (The sizes of raw videos are cropped to the multiples of 16)
   - Training set (LDV 1.0, 240 videos): 
 [[Raw]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/train/train_down2_gt.zip)
 [[Compressed (Fixed QP)]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/train/train_down2_QP37.zip)
@@ -103,5 +103,19 @@ The proposed LDV 2.0 in NTIRE 2022 contains 330 videos with diverse categories o
 [[Raw]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/validation/track2_test_gt.zip)
 [[Compressed (Fixed QP)]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/test/test_track2.zip)
 [[Info]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/test/data_test_2.xlsx)
+
+- **Track 3** (The sizes of raw videos are cropped to the multiples of 64)
+  - Training set (LDV 1.0, 240 videos): 
+[[Raw]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/train/train_down4_gt.zip)
+[[Compressed (Fixed QP)]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/train/train_down4_QP37.zip)
+[[Info]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/train/data_train_3.xlsx)
+  - Validation set (15 videos): 
+[[Raw]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/validation/track3_val_gt.zip)
+[[Compressed (Fixed QP)]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/validation/validation_track3.zip)
+[[Info]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/validation/data_val_3.xlsx)
+  - Test set (15 videos): 
+[[Raw]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/validation/track3_test_gt.zip)
+[[Compressed (Fixed QP)]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/test/test_track3.zip)
+[[Info]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/test/data_test_3.xlsx)
 
 
