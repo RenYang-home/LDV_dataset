@@ -1,8 +1,8 @@
 # Large-scale Diverse Video (LDV) Dataset
 
-The LDV 1.0 and LDV 2.0 datasets are established for Challenges of the NTIRE 2021 and NTIRE 2022, respectively.
+The LDV 1.0 and LDV 2.0 datasets are established for Vidoe Enhancement Challenges in [NTIRE Workshop2021] (https://data.vision.ee.ethz.ch/cvl/ntire21/) and [NTIRE Workshop2022] (https://data.vision.ee.ethz.ch/cvl/ntire22/).
 
-If the LDV 1.0 and LDV 2.0 datasets and the benchmarks are useful for your research, please cite:
+If the datasets and the benchmarks are useful for your research, please cite:
 ```
 @inproceedings{yang2021dataset,
   title={{NTIRE 2021} Challenge on Quality Enhancement of Compressed Video: Dataset and Study},
