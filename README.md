@@ -26,13 +26,13 @@ Ren Yang @ ETH Zurich, Switzerland
 Email: ren.yang@vision.ee.ethz.ch
 
 
-## LDV 1.0
+## LDV 1.0 (240 videos)
 
 The proposed LDV 1.0 in NTIRE 2021 contains 240 videos with diverse categories of content, different kinds of motion and various frame-rates. The dataset may be further extended in the future. The details of the proposed LDV 1.0 dataset are discribed in the dataset report:
 
 > Ren Yang and Radu Timofte, "NTIRE 2021 Challenge on Quality Enhancement of Compressed Video: Dataset and Study", in IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, 2021. [[Paper]](https://arxiv.org/abs/2104.10782)
 
-### Download the LDV 1.0 dataset
+### Download LDV 1.0
 
 - Training set (200 videos) 
 [[Raw]](https://data.vision.ee.ethz.ch/reyang/training_raw.zip) 
