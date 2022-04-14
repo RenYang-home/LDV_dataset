@@ -1,5 +1,31 @@
 # Large-scale Diverse Video (LDV) Dataset
 
+The LDV 1.0 and LDV 2.0 datasets are established for Challenges of the NTIRE 2021 and NTIRE 2022, respectively.
+
+If the LDV 1.0 and LDV 2.0 datasets and the benchmarks are useful for your research, please cite:
+```
+@inproceedings{yang2021dataset,
+  title={{NTIRE 2021} Challenge on Quality Enhancement of Compressed Video: Dataset and Study},
+  author={Ren Yang and Radu Timofte}, 
+  booktitle={IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops}, 
+  year={2021}
+}
+
+@inproceedings{yang2022ntire,
+  title={{NTIRE 2022} Challenge on Super-Resolution and Quality Enhancement of Compressed Video: Dataset, Methods and Results},
+  author={Ren Yang and Radu Timofte and others}, 
+  booktitle={IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops}, 
+  year={2022}
+}
+```
+
+Should you have any questions, please feel free to contact:
+
+Ren Yang @ ETH Zurich, Switzerland   
+
+Email: ren.yang@vision.ee.ethz.ch
+
+
 ## LDV 1.0
 
 The proposed LDV 1.0 in NTIRE 2021 contains 240 videos with diverse categories of content, different kinds of motion and various frame-rates. The dataset may be further extended in the future. The details of the proposed LDV 1.0 dataset are discribed in the dataset report:
