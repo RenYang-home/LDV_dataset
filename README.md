@@ -77,15 +77,15 @@ The proposed LDV 2.0 in NTIRE 2022 contains 330 videos with diverse categories o
 - **The whole dataset (330 videos)** [[Raw videos]]() [[Info]]() 
 
 - **Track 1**
-... Training set (LDV 1.0, 240 videos): 
+⋅⋅⋅Training set (LDV 1.0, 240 videos): 
 [[Raw]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/train/train_gt.zip)
 [[Compressed (Fixed QP)]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/train/train_QP37.zip)
 [[Info]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/train/data_train_1.xlsx)
-- Validation set (15 videos): 
+⋅⋅⋅Validation set (15 videos): 
 [[Raw]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/validation/track1_val_gt.zip)
 [[Compressed (Fixed QP)]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/validation/validation_track1.zip)
 [[Info]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/validation/data_val_1.xlsx)
-- Test set (15 videos): 
+⋅⋅⋅Test set (15 videos): 
 [[Raw]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/validation/track1_test_gt.zip)
 [[Compressed (Fixed QP)]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/test/test_track1.zip)
 [[Info]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/test/data_test_1.xlsx)
