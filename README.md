@@ -71,3 +71,10 @@ The proposed LDV 2.0 in NTIRE 2022 contains 330 videos with diverse categories o
 
 > Ren Yang, Radu Timofte, and others, "NTIRE 2022 Challenge on Super-Resolution and Quality Enhancement of Compressed Video: Dataset, Methods and Results", in IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, 2022. [[Paper]]()
 > 
+
+### Download LDV 2.0
+
+- The whole dataset (330 videos) [[Raw videos]]() [[Info]]() 
+
+- Training set (200 videos) 
+- 
