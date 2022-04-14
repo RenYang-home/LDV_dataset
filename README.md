@@ -118,4 +118,9 @@ The proposed LDV 2.0 in NTIRE 2022 contains 330 videos with diverse categories o
 [[Compressed (Fixed QP)]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/test/test_track3.zip)
 [[Info]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/test/data_test_3.xlsx)
 
+The NTIRE 2022 challenge compresses videos in the **YUV domain** and evaluates results in the **RGB domain**. The following commands can be used to convert the videos to the YUV and RGB domains, respectively. 
 
+```
+ffmpeg -i xxx.mkv -pix_fmt yuv420p xxx.yuv
+ffmpeg -i xxx.mkv ./xxx/%3d.png
+```
