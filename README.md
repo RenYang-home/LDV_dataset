@@ -36,26 +36,26 @@ The proposed LDV 1.0 in NTIRE 2021 contains 240 videos with diverse categories o
 
 - Training set (200 videos) 
 [[Raw]](https://data.vision.ee.ethz.ch/reyang/training_raw.zip) 
-[[Fixed QP]](https://data.vision.ee.ethz.ch/reyang/training_fixed-QP.zip)
-[[Fixed bit-rate]](https://data.vision.ee.ethz.ch/reyang/training_fixed-rate.zip)
+[[Compressed (fixed QP)]](https://data.vision.ee.ethz.ch/reyang/training_fixed-QP.zip)
+[[Compressed (fixed bit-rate)]](https://data.vision.ee.ethz.ch/reyang/training_fixed-rate.zip)
 [[Info]](https://data.vision.ee.ethz.ch/reyang/data_train.xlsx)
 
 - Validation set (20 videos)
 [[Raw]](https://data.vision.ee.ethz.ch/reyang/validation_raw.zip)
-[[Fixed QP]](https://data.vision.ee.ethz.ch/reyang/validation_fixed-QP.zip)
-[[Fixed bit-rate]](https://data.vision.ee.ethz.ch/reyang/validation_fixed-rate.zip)
+[[Compressed (fixed QP)]](https://data.vision.ee.ethz.ch/reyang/validation_fixed-QP.zip)
+[[Compressed (fixed bit-rate)]](https://data.vision.ee.ethz.ch/reyang/validation_fixed-rate.zip)
 [[Info]](https://data.vision.ee.ethz.ch/reyang/data_validation.xlsx)
 
 - Test set for Tracks 1 and 2 (10 videos)
 [[Raw]](https://data.vision.ee.ethz.ch/reyang/test_raw_1.zip)
-[[Fixed QP]](https://data.vision.ee.ethz.ch/reyang/test_fixed-QP_release.zip)
-[[Fixed bit-rate]](https://data.vision.ee.ethz.ch/reyang/test_fixed-rate_1.zip)
+[[Compressed (fixed QP)]](https://data.vision.ee.ethz.ch/reyang/test_fixed-QP_release.zip)
+[[Compressed (fixed bit-rate)]](https://data.vision.ee.ethz.ch/reyang/test_fixed-rate_1.zip)
 [[Info]](https://data.vision.ee.ethz.ch/reyang/data_test_1.xlsx)
 
 - Test set for Track 3 (10 videos)
 [[Raw]](https://data.vision.ee.ethz.ch/reyang/test_raw_2.zip)
-[[Fixed QP]](https://data.vision.ee.ethz.ch/reyang/test_fixed-QP_2.zip)
-[[Fixed bit-rate]](https://data.vision.ee.ethz.ch/reyang/test_fixed-rate_release.zip)
+[[Compressed (fixed QP)]](https://data.vision.ee.ethz.ch/reyang/test_fixed-QP_2.zip)
+[[Compressed (fixed bit-rate)]](https://data.vision.ee.ethz.ch/reyang/test_fixed-rate_release.zip)
 [[Info]](https://data.vision.ee.ethz.ch/reyang/data_test_2.xlsx) 
 
 The NTIRE 2021 challenge compresses videos in the **YUV domain** and evaluates results in the **RGB domain**. The following commands can be used to convert the videos to the YUV and RGB domains, respectively. 
@@ -77,11 +77,17 @@ The proposed LDV 2.0 in NTIRE 2022 contains 330 videos with diverse categories o
 - **The whole dataset (330 videos)** [[Raw videos]]() [[Info]]() 
 
 - **Track 1**
--- Training set (240 videos): 
+- Training set (LDV 1.0, 240 videos): 
 [[Raw]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/train/train_gt.zip)
 [[Compressed (Fixed QP)]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/train/train_QP37.zip)
 [[Info]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/train/data_train_1.xlsx)
--- Validation set (15 videos): 
-[[Raw]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/train/train_gt.zip)
-[[Compressed (Fixed QP)]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/train/train_QP37.zip)
-[[Info]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/train/data_train_1.xlsx)
+- Validation set (15 videos): 
+[[Raw]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/validation/track1_val_gt.zip)
+[[Compressed (Fixed QP)]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/validation/validation_track1.zip)
+[[Info]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/validation/data_val_1.xlsx)
+- Test set (15 videos): 
+[[Raw]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/validation/track1_test_gt.zip)
+[[Compressed (Fixed QP)]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/test/test_track1.zip)
+[[Info]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/test/data_test_1.xlsx)
+
+
