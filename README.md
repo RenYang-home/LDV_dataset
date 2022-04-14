@@ -74,7 +74,7 @@ The proposed LDV 2.0 in NTIRE 2022 contains 335 videos with diverse categories o
 
 ### Download LDV 2.0
 
-- **The whole dataset (335 videos)** [[Raw videos]]() [[Info]]() 
+- **The whole dataset (335 videos)** [[Raw videos]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/LDV2.zip) [[Info]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/data_LDV2.xlsx) 
 
 - **Track 1**
   - Training set (LDV 1.0, 240 videos): 
