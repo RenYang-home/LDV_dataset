@@ -64,3 +64,10 @@ The NTIRE 2021 challenge compresses videos in the **YUV domain** and evaluates r
 ffmpeg -i xxx.mkv -pix_fmt yuv420p xxx.yuv
 ffmpeg -i xxx.mkv ./xxx/%3d.png
 ```
+
+## LDV 2.0 (LDV 1.0 + 90 videos)
+
+The proposed LDV 2.0 in NTIRE 2022 contains 330 videos with diverse categories of content, different kinds of motion and various frame-rates. The details of the proposed LDV 2.0 dataset are discribed in the dataset report:
+
+> Ren Yang, Radu Timofte, and others, "NTIRE 2022 Challenge on Super-Resolution and Quality Enhancement of Compressed Video: Dataset, Methods and Results", in IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, 2022. [[Paper]]()
+> 
