@@ -1,6 +1,6 @@
 # Large-scale Diverse Video (LDV) Dataset
 
-The LDV 1.0 and LDV 2.0 datasets are established for the Video Enhancement Challenges in [NTIRE Workshop 2021](https://data.vision.ee.ethz.ch/cvl/ntire21/) and [NTIRE Workshop 2022](https://data.vision.ee.ethz.ch/cvl/ntire22/).
+The LDV 1.0, LDV 2.0 and LDV 3.0 datasets are established for the Video Enhancement Challenges in [NTIRE Workshop 2021](https://data.vision.ee.ethz.ch/cvl/ntire21/), [NTIRE Workshop 2022](https://data.vision.ee.ethz.ch/cvl/ntire22/) and [AIM Workshop 2022](https://data.vision.ee.ethz.ch/cvl/aim22/).
 
 If the datasets and the benchmarks are useful for your research, please cite:
 ```
@@ -15,6 +15,13 @@ If the datasets and the benchmarks are useful for your research, please cite:
   title={{NTIRE 2022} Challenge on Super-Resolution and Quality Enhancement of Compressed Video: Dataset, Methods and Results},
   author={Ren Yang and Radu Timofte and others}, 
   booktitle={IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops}, 
+  year={2022}
+}
+
+@inproceedings{yang2022aim,
+  title={{AIM 2022} Challenge on Super-Resolution of Compressed Image and Video: Dataset, Methods and Results},
+  author={Ren Yang and Radu Timofte and others}, 
+  booktitle={European Conference on Computer Vision Workshops}, 
   year={2022}
 }
 ```
