@@ -142,3 +142,20 @@ The proposed LDV 3.0 in AIM 2022 contains 365 videos with diverse categories of 
 ### Download LDV 3.0
 
 - **The whole dataset (365 videos)** [[Raw videos]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/LDV3.zip) [[Info]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/data_LDV3.xlsx) 
+
+- **Track 2** (The sizes of raw videos are cropped to the multiples of 64)
+  - Validation set (15 videos): 
+[[Raw]]()
+[[Compressed (Fixed QP)]]()
+[[Info]]()
+  - Test set (15 videos): 
+[[Raw]]()
+[[Compressed (Fixed QP)]]()
+[[Info]]()
+
+The AIM 2022 challenge compresses videos in the **YUV domain** and evaluates results in the **RGB domain**. The following commands can be used to convert the videos to the YUV and RGB domains, respectively. 
+
+```
+ffmpeg -i xxx.mkv -pix_fmt yuv420p xxx.yuv
+ffmpeg -i xxx.mkv ./xxx/%3d.png
+```
