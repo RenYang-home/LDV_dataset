@@ -76,7 +76,7 @@ ffmpeg -i xxx.mkv ./xxx/%3d.png
 
 The proposed LDV 2.0 in NTIRE 2022 contains 335 videos with diverse categories of content, different kinds of motion and various frame-rates. The details of the proposed LDV 2.0 dataset are discribed in the dataset report:
 
-> Ren Yang, Radu Timofte, and others, "NTIRE 2022 Challenge on Super-Resolution and Quality Enhancement of Compressed Video: Dataset, Methods and Results", in IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, 2022. [[Paper]]()
+> Ren Yang, Radu Timofte, and others, "NTIRE 2022 Challenge on Super-Resolution and Quality Enhancement of Compressed Video: Dataset, Methods and Results", in IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, 2022. [[Paper]](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Yang_NTIRE_2022_Challenge_on_Super-Resolution_and_Quality_Enhancement_of_Compressed_CVPRW_2022_paper.pdf)
 > 
 
 ### Download LDV 2.0
@@ -132,6 +132,13 @@ ffmpeg -i xxx.mkv -pix_fmt yuv420p xxx.yuv
 ffmpeg -i xxx.mkv ./xxx/%3d.png
 ```
 
-## LDV 3.0 (365 videos)
+## LDV 3.0 (LDV 2.0 + 30 videso = 365 videos)
 
-The dataset will be available soon.
+The proposed LDV 3.0 in AIM 2022 contains 365 videos with diverse categories of content, different kinds of motion and various frame-rates. The details of the proposed LDV 3.0 dataset are discribed in the dataset report:
+
+> Ren Yang, Radu Timofte, and others, "AIM 2022 Challenge on Super-Resolution of Compressed Image and Video: Dataset, Methods and Results", in European Conference on Computer Vision Workshops, 2022. [[Paper]](https://arxiv.org/pdf/2208.11184.pdf)
+> 
+
+### Download LDV 3.0
+
+- **The whole dataset (365 videos)** [[Raw videos]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/LDV3.zip) [[Info]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/data_LDV3.xlsx) 
