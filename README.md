@@ -1,6 +1,6 @@
 # Large-scale Diverse Video (LDV) Dataset
 
-**Download the lastest version: LDV 3.0** [[Raw videos]](https://data.vision.ee.ethz.ch/reyang/AIM2022/LDV3.zip) [[Info]](https://data.vision.ee.ethz.ch/reyang/AIM2022/data_LDV3.xlsx) 
+**Download the lastest version: LDV 3.0 (365 videos)** [[Raw videos]](https://data.vision.ee.ethz.ch/reyang/AIM2022/LDV3.zip) [[Info]](https://data.vision.ee.ethz.ch/reyang/AIM2022/data_LDV3.xlsx) 
 
 The LDV 1.0, LDV 2.0 and LDV 3.0 datasets are established for the Video Enhancement Challenges in [NTIRE Workshop 2021](https://data.vision.ee.ethz.ch/cvl/ntire21/), [NTIRE Workshop 2022](https://data.vision.ee.ethz.ch/cvl/ntire22/) and [AIM Workshop 2022](https://data.vision.ee.ethz.ch/cvl/aim22/).
 
