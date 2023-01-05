@@ -72,7 +72,7 @@ ffmpeg -i xxx.mkv -pix_fmt yuv420p xxx.yuv
 ffmpeg -i xxx.mkv ./xxx/%3d.png
 ```
 
-## LDV 2.0 (LDV 1.0 + 95 videos)
+## LDV 2.0 (LDV 1.0 + 95 videos = 335 videos)
 
 The proposed LDV 2.0 in NTIRE 2022 contains 335 videos with diverse categories of content, different kinds of motion and various frame-rates. The details of the proposed LDV 2.0 dataset are discribed in the dataset report:
 
@@ -132,7 +132,7 @@ ffmpeg -i xxx.mkv -pix_fmt yuv420p xxx.yuv
 ffmpeg -i xxx.mkv ./xxx/%3d.png
 ```
 
-## LDV 3.0 (LDV 2.0 + 30 videso = 365 videos)
+## LDV 3.0 (LDV 2.0 + 30 videos = 365 videos)
 
 The proposed LDV 3.0 in AIM 2022 contains 365 videos with diverse categories of content, different kinds of motion and various frame-rates. The details of the proposed LDV 3.0 dataset are discribed in the dataset report:
 
