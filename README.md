@@ -141,7 +141,7 @@ The proposed LDV 3.0 in AIM 2022 contains 365 videos with diverse categories of 
 
 ### Download LDV 3.0
 
-- **The whole dataset (365 videos)** [[Raw videos]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/LDV3.zip) [[Info]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/data_LDV3.xlsx) 
+- **The whole dataset (365 videos)** [[Raw videos]](https://data.vision.ee.ethz.ch/reyang/AIM2022/LDV3.zip) [[Info]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/data_LDV3.xlsx) 
 
 - **Track 2** (The sizes of raw videos are cropped to the multiples of 64)
   - Validation set (15 videos): 
