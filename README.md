@@ -47,25 +47,25 @@ The proposed LDV 1.0 in NTIRE 2021 contains 240 videos with diverse categories o
 [[Raw]](https://data.vision.ee.ethz.ch/reyang/training_raw.zip) 
 [[Compressed (fixed QP)]](https://data.vision.ee.ethz.ch/reyang/training_fixed-QP.zip)
 [[Compressed (fixed bit-rate)]](https://data.vision.ee.ethz.ch/reyang/training_fixed-rate.zip)
-[[Info]](https://data.vision.ee.ethz.ch/reyang/data_train.xlsx)
+[[Info]](https://drive.google.com/file/d/1SqRKyNxOE7cRb3TZ4JcPpe0r01zrpEq2/view?usp=drive_link)
 
 - Validation set (20 videos)
 [[Raw]](https://drive.google.com/file/d/19bNZhdjvRtbFCmOPzSJowCkjrk1dsecL/view?usp=drive_link)
 [[Compressed (fixed QP)]](https://data.vision.ee.ethz.ch/reyang/validation_fixed-QP.zip)
 [[Compressed (fixed bit-rate)]](https://data.vision.ee.ethz.ch/reyang/validation_fixed-rate.zip)
-[[Info]](https://data.vision.ee.ethz.ch/reyang/data_validation.xlsx)
+[[Info]](https://drive.google.com/file/d/1wa4s7AOHpO2iWzK99sJbKaLna4pivmRM/view?usp=drive_link)
 
 - Test set for Tracks 1 and 2 (10 videos)
 [[Raw]](https://drive.google.com/file/d/1W4bDwhQbZpRyWmBlEAJZH6cte5-Blvn8/view?usp=drive_link)
 [[Compressed (fixed QP)]](https://data.vision.ee.ethz.ch/reyang/test_fixed-QP_release.zip)
 [[Compressed (fixed bit-rate)]](https://data.vision.ee.ethz.ch/reyang/test_fixed-rate_1.zip)
-[[Info]](https://data.vision.ee.ethz.ch/reyang/data_test_1.xlsx)
+[[Info]](https://drive.google.com/file/d/1gS7Sis0tBvUA-xg96STEPaY2uTGYyGAM/view?usp=drive_link)
 
 - Test set for Track 3 (10 videos)
 [[Raw]](https://drive.google.com/file/d/1bCDGvmE_5ZQq7l4MRtJwyIMKWhj8JVxc/view?usp=drive_link)
 [[Compressed (fixed QP)]](https://data.vision.ee.ethz.ch/reyang/test_fixed-QP_2.zip)
 [[Compressed (fixed bit-rate)]](https://data.vision.ee.ethz.ch/reyang/test_fixed-rate_release.zip)
-[[Info]](https://data.vision.ee.ethz.ch/reyang/data_test_2.xlsx) 
+[[Info]](https://drive.google.com/file/d/18Hsm80F9h2_uEVoVoI4GNlZBvEAirYtw/view?usp=drive_link) 
 
 The NTIRE 2021 challenge compresses videos in the **YUV domain** and evaluates results in the **RGB domain**. The following commands can be used to convert the videos to the YUV and RGB domains, respectively. 
 
