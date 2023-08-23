@@ -32,7 +32,7 @@ Should you have any questions, please feel free to contact:
 
 Ren Yang @ ETH Zurich, Switzerland   
 
-Email: ren.yang@vision.ee.ethz.ch
+Email: r.yangchn@gmail.com
 
 
 ## LDV 1.0 (240 videos)
