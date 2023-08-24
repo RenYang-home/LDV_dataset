@@ -91,13 +91,13 @@ The proposed LDV 2.0 in NTIRE 2022 contains 335 videos with diverse categories o
 [[Compressed (Fixed QP)]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/train/train_QP37.zip)
 [[Info]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/train/data_train_1.xlsx)
   - Validation set (15 videos): 
-[[Raw]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/validation/track1_val_gt.zip)
-[[Compressed (Fixed QP)]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/validation/validation_track1.zip)
-[[Info]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/validation/data_val_1.xlsx)
+[[Raw]](https://drive.google.com/file/d/1rX7_asAGa4xOVnGc2l9QYoYyVa7yBFSM/view?usp=drive_link)
+[[Compressed (Fixed QP)]](https://drive.google.com/file/d/1hvGPYWI6U6XXLKQTBGk28KDyZ6CM4FH3/view?usp=drive_link)
+[[Info]](https://drive.google.com/file/d/1FKQk4P6d56676XHRaaSaFq01fdpBgkec/view?usp=drive_link)
   - Test set (15 videos): 
-[[Raw]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/test/track1_test_gt.zip)
-[[Compressed (Fixed QP)]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/test/test_track1.zip)
-[[Info]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/test/data_test_1.xlsx)
+[[Raw]](https://drive.google.com/file/d/1yF7b5NG-tgLPkbPTeogt1nI3tXtN6hAe/view?usp=drive_link)
+[[Compressed (Fixed QP)]](https://drive.google.com/file/d/1LcXCaDRccKGFg8fUdB23iX9LLR5s3D4q/view?usp=drive_link)
+[[Info]](https://drive.google.com/file/d/1_cLeRy64rgB7SK7aMEcmLTYkg7NoOoTA/view?usp=drive_link)
 
 - **Track 2** (The sizes of raw videos are cropped to the multiples of 16)
   - Training set (LDV 1.0, 240 videos): 
@@ -105,13 +105,13 @@ The proposed LDV 2.0 in NTIRE 2022 contains 335 videos with diverse categories o
 [[Compressed (Fixed QP)]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/train/train_down2_QP37.zip)
 [[Info]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/train/data_train_2.xlsx)
   - Validation set (15 videos): 
-[[Raw]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/validation/track2_val_gt.zip)
-[[Compressed (Fixed QP)]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/validation/validation_track2.zip)
-[[Info]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/validation/data_val_2.xlsx)
+[[Raw]](https://drive.google.com/file/d/1GXfakFwFgb2G8f1B7g9y1D2tV5MAXzpW/view?usp=drive_link)
+[[Compressed (Fixed QP)]](https://drive.google.com/file/d/1F5sMpu-Y8KHhz23UKZurJ-ewiwhdQBqR/view?usp=drive_link)
+[[Info]](https://drive.google.com/file/d/1tGw_ab_3kDi3iDFCjmP0czbYV-qtG2Ml/view?usp=drive_link)
   - Test set (15 videos): 
-[[Raw]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/test/track2_test_gt.zip)
-[[Compressed (Fixed QP)]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/test/test_track2.zip)
-[[Info]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/test/data_test_2.xlsx)
+[[Raw]](https://drive.google.com/file/d/1RMM6fXNfDmPqsz6dZ95yPVZ2WgYKbGzA/view?usp=drive_link)
+[[Compressed (Fixed QP)]](https://drive.google.com/file/d/16QYY0rZ8a3avSJgI3Kv55ZMNrl__WtmZ/view?usp=drive_link)
+[[Info]](https://drive.google.com/file/d/1-ps3uxXuJWsavvTnDhVu7QFOQ_7A2HbM/view?usp=drive_link)
 
 - **Track 3** (The sizes of raw videos are cropped to the multiples of 64)
   - Training set (LDV 1.0, 240 videos): 
@@ -119,13 +119,13 @@ The proposed LDV 2.0 in NTIRE 2022 contains 335 videos with diverse categories o
 [[Compressed (Fixed QP)]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/train/train_down4_QP37.zip)
 [[Info]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/train/data_train_3.xlsx)
   - Validation set (15 videos): 
-[[Raw]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/validation/track3_val_gt.zip)
-[[Compressed (Fixed QP)]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/validation/validation_track3.zip)
-[[Info]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/validation/data_val_3.xlsx)
+[[Raw]](https://drive.google.com/file/d/1pIn_dcH4yvFSUBT08D4QK18guWaM6wnd/view?usp=drive_link)
+[[Compressed (Fixed QP)]](https://drive.google.com/file/d/1vT8jVmyUeJGLlWiEBBCU-F8PKBZ_I-55/view?usp=drive_link)
+[[Info]](https://drive.google.com/file/d/1UcW_E72tDRpsThDK5HA1PChtnVGUz6F-/view?usp=drive_link)
   - Test set (15 videos): 
-[[Raw]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/test/track3_test_gt.zip)
-[[Compressed (Fixed QP)]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/test/test_track3.zip)
-[[Info]](https://data.vision.ee.ethz.ch/reyang/NTIRE2022/test/data_test_3.xlsx)
+[[Raw]](https://drive.google.com/file/d/1dqAoS5nCuBMlNoMcHqaMPXoSSOSZehC4/view?usp=drive_link)
+[[Compressed (Fixed QP)]](https://drive.google.com/file/d/1P5juq-cXGy5-YRQU8BVmJWgzB5M29JRw/view?usp=drive_link)
+[[Info]](https://drive.google.com/file/d/1jkAwh4L93huWUGJ5Gy2NVJEJPJ_unIV8/view?usp=drive_link)
 
 The NTIRE 2022 challenge compresses videos in the **YUV domain** and evaluates results in the **RGB domain**. The following commands can be used to convert the videos to the YUV and RGB domains, respectively. 
 
@@ -143,17 +143,17 @@ The proposed LDV 3.0 in AIM 2022 contains 365 videos with diverse categories of 
 
 ### Download LDV 3.0
 
-- **The whole dataset (365 videos)** [[Raw videos]](https://data.vision.ee.ethz.ch/reyang/AIM2022/LDV3.zip) [[Info]](https://data.vision.ee.ethz.ch/reyang/AIM2022/data_LDV3.xlsx) 
+- **The whole dataset (365 videos)** [[Raw videos]](https://drive.google.com/file/d/1MT6oihhUuZDfaMSOZfH5SERxbUkHA4Je/view?usp=drive_link) [[Info]](https://drive.google.com/file/d/1_VTWRhrTKaNvMlR0UH-WZcWJibu1QwLt/view?usp=drive_link) 
 
 - **Track 2** (The sizes of raw videos are cropped to the multiples of 64)
   - Validation set (15 videos): 
-[[Raw]](https://data.vision.ee.ethz.ch/reyang/AIM2022/video_val_gt.zip)
-[[Compressed (Fixed QP)]](https://data.vision.ee.ethz.ch/reyang/AIM2022/video_val.zip)
-[[Info]](https://data.vision.ee.ethz.ch/reyang/AIM2022/data_val_aim.xlsx)
+[[Raw]](https://drive.google.com/file/d/1PE3yHukHm850LaqAY3QZNpmMdjiQ31Z5/view?usp=drive_link)
+[[Compressed (Fixed QP)]](https://drive.google.com/file/d/1E3rTScRq58xNXp4JR7Xw_Gs7G9MTY8Af/view?usp=drive_link)
+[[Info]](https://drive.google.com/file/d/1mufD_-ceg8wLkaVnoTWy2d09cIGnVwdI/view?usp=drive_link)
   - Test set (15 videos): 
-[[Raw]](https://data.vision.ee.ethz.ch/reyang/AIM2022/video_test_gt.zip)
-[[Compressed (Fixed QP)]](https://data.vision.ee.ethz.ch/reyang/AIM2022/video_test.zip)
-[[Info]](https://data.vision.ee.ethz.ch/reyang/AIM2022/data_test_aim.xlsx)
+[[Raw]](https://drive.google.com/file/d/1tCLh8KAK7JcwfwNWsytk6KYpG-RgWGqq/view?usp=drive_link)
+[[Compressed (Fixed QP)]](https://drive.google.com/file/d/1RgZRymK3i4TMxHSSZbk48p9RkF8uULjl/view?usp=drive_link)
+[[Info]](https://drive.google.com/file/d/1IAsho89oY8j3_uV0yx2Pi2kG5MC5X3bv/view?usp=drive_link)
 
 The AIM 2022 challenge compresses videos in the **YUV domain** and evaluates results in the **RGB domain**. The following commands can be used to convert the videos to the YUV and RGB domains, respectively. 
 
