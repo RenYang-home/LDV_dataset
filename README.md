@@ -44,27 +44,27 @@ The proposed LDV 1.0 in NTIRE 2021 contains 240 videos with diverse categories o
 ### Download LDV 1.0
 
 - Training set (200 videos) 
-[[Raw]](https://data.vision.ee.ethz.ch/reyang/training_raw.zip) 
-[[Compressed (fixed QP)]](https://data.vision.ee.ethz.ch/reyang/training_fixed-QP.zip)
-[[Compressed (fixed bit-rate)]](https://data.vision.ee.ethz.ch/reyang/training_fixed-rate.zip)
+[[Raw]](https://drive.google.com/file/d/1E24fD2rGrB5QQWUl30RkczEkaGJlPBH_/view?usp=drive_link) 
+[[Compressed (fixed QP)]](https://drive.google.com/file/d/1nhfzUHBUzQzhJO8GkpQtNW4vxu4tunNx/view?usp=drive_link)
+[[Compressed (fixed bit-rate)]](https://drive.google.com/file/d/1SdIpIqeoQR-MgR0NS06eALL-I_vJjcIj/view?usp=drive_link)
 [[Info]](https://drive.google.com/file/d/1SqRKyNxOE7cRb3TZ4JcPpe0r01zrpEq2/view?usp=drive_link)
 
 - Validation set (20 videos)
 [[Raw]](https://drive.google.com/file/d/19bNZhdjvRtbFCmOPzSJowCkjrk1dsecL/view?usp=drive_link)
-[[Compressed (fixed QP)]](https://data.vision.ee.ethz.ch/reyang/validation_fixed-QP.zip)
-[[Compressed (fixed bit-rate)]](https://data.vision.ee.ethz.ch/reyang/validation_fixed-rate.zip)
+[[Compressed (fixed QP)]](https://drive.google.com/file/d/1ANB85AI_2ShppyBkOEPvQKBHaS-HlPc1/view?usp=drive_link)
+[[Compressed (fixed bit-rate)]](https://drive.google.com/file/d/1XLsytIMWjRYpkBD_CMiE5e9733dC4TvE/view?usp=drive_link)
 [[Info]](https://drive.google.com/file/d/1wa4s7AOHpO2iWzK99sJbKaLna4pivmRM/view?usp=drive_link)
 
 - Test set for Tracks 1 and 2 (10 videos)
 [[Raw]](https://drive.google.com/file/d/1W4bDwhQbZpRyWmBlEAJZH6cte5-Blvn8/view?usp=drive_link)
-[[Compressed (fixed QP)]](https://data.vision.ee.ethz.ch/reyang/test_fixed-QP_release.zip)
-[[Compressed (fixed bit-rate)]](https://data.vision.ee.ethz.ch/reyang/test_fixed-rate_1.zip)
+[[Compressed (fixed QP)]](https://drive.google.com/file/d/1mc4LXrseNkpjLe9HfD0ho7g9JPHneKHy/view?usp=drive_link)
+[[Compressed (fixed bit-rate)]](https://drive.google.com/file/d/1zeNSwd2D0D6vJ1hmXiOn0C2ug4IJmTca/view?usp=drive_link)
 [[Info]](https://drive.google.com/file/d/1gS7Sis0tBvUA-xg96STEPaY2uTGYyGAM/view?usp=drive_link)
 
 - Test set for Track 3 (10 videos)
 [[Raw]](https://drive.google.com/file/d/1bCDGvmE_5ZQq7l4MRtJwyIMKWhj8JVxc/view?usp=drive_link)
-[[Compressed (fixed QP)]](https://data.vision.ee.ethz.ch/reyang/test_fixed-QP_2.zip)
-[[Compressed (fixed bit-rate)]](https://data.vision.ee.ethz.ch/reyang/test_fixed-rate_release.zip)
+[[Compressed (fixed QP)]](https://drive.google.com/file/d/1g08W8nIe6Hv8Mt7LZ0OoNNOPn478s_AR/view?usp=drive_link)
+[[Compressed (fixed bit-rate)]](https://drive.google.com/file/d/1Y2pGoDN7yW7NeZ4bZy-UjmXUyaZwaJFd/view?usp=drive_link)
 [[Info]](https://drive.google.com/file/d/18Hsm80F9h2_uEVoVoI4GNlZBvEAirYtw/view?usp=drive_link) 
 
 The NTIRE 2021 challenge compresses videos in the **YUV domain** and evaluates results in the **RGB domain**. The following commands can be used to convert the videos to the YUV and RGB domains, respectively. 
